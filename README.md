@@ -24,8 +24,8 @@ This project is a Laravel-based API authentication system that uses token-based 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-project-name.git
-   cd your-project-name
+   git clone https://github.com/gorhovagimyan/ClearGate.git
+   cd ClearGate-main
    ```
 
 2. Install dependencies:
